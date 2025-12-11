@@ -18,7 +18,10 @@ A highly customizable **Flutter dropdown widget** with support for **single-sele
   - Read-only or editable
   - Max length, max/min lines
   - Keyboard type, text style, input formatters
-    
+
+## ✨ Preview
+![screen-20251211-1624492](https://github.com/user-attachments/assets/bcc1c561-8b27-4bda-81ef-873e3505f48b)
+
 ## Installation
 Add this to your `pubspec.yaml`:
 ```
